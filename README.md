@@ -18,3 +18,6 @@ target_link_libraries( # Specifies the target library.
 ```
 ## 2.流程
 
+结合代码参考下面的图片，食用更佳
+
+![ffmpeg 流程](https://github.com/bugyun/Android-FFmpeg/blob/master/file/use-ffmpeg.png)
