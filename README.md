@@ -20,4 +20,9 @@ target_link_libraries( # Specifies the target library.
 
 结合代码参考下面的图片，食用更佳
 
+[Android-Opensl代码示例](https://github.com/bugyun/Android-Opensl)
+
+[Android-OpenGLES代码示例](https://github.com/bugyun/Android-OpenGLES)
+
+
 ![ffmpeg 流程](https://github.com/bugyun/Android-FFmpeg/blob/master/file/use-ffmpeg.png)
